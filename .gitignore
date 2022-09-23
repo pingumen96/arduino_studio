@@ -1,0 +1,9 @@
+*.cache
+*.eep
+*.elf
+*.hex
+*.d
+*.o
+*.cpp
+*.a
+*.json
